@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+# development
+.prettierignore
+.prettierrc
+.vscode/
+
 # production
 /build
 
